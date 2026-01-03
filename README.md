@@ -29,5 +29,5 @@ A simple, fast Wikipedia search app.
 
 ---
 
-⭐ If you like what I build, feel free to follow — I love connecting with devs & builders!
+⭐ If you like what I build, feel free to follow — I love connecting with devs & builders! <br>
 Thanks for visiting 😊
