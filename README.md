@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arjun</h1>
+<h3 align="center">🚀 A passionate full-stack builder who loves turning ideas into real products</h3>
 
-<!--
-**ArjunO-008/ArjunO-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 TalkBoard
+A real-time collaborative whiteboard focused on simplicity and usability.
+- Real-time drawing & collaboration
+- Room-based system
+- Built to evolve further
+
+---
+
+### 🔎 WikiFinder App
+A simple, fast Wikipedia search app.
+- Search any topic
+- Clean UI
+- Instant results
+
+---
+
+## 🛠️ Tech Stack
+### 🚀 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,supabase,git,github,vercel,vscode" />
+</p>
+
+---
+
+⭐ If you like what I build, feel free to follow — I love connecting with devs & builders!
+Thanks for visiting 😊
