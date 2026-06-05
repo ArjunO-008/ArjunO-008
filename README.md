@@ -1,33 +1,41 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">🚀 A passionate full-stack builder who loves turning ideas into real products</h3>
+<h2>Arjun</h2>
+
+CS Engineering student · Building systems that don't exist yet
 
 ---
 
-## 🔥 Projects
-
-### 🧑‍💻 TalkBoard
-A real-time collaborative whiteboard focused on simplicity and usability.
-- Real-time drawing & collaboration
-- Room-based system
-- Built to evolve further
+I gravitate toward low-level, architecturally interesting problems. Most of my work lives at the intersection of tooling, performance, and developer experience — written mostly in Go, with C and Rust where it matters.
 
 ---
 
-### 🔎 WikiFinder App
-A simple, fast Wikipedia search app.
-- Search any topic
-- Clean UI
-- Instant results
+## Projects
+
+**[gate-cli](https://github.com/ArjunO-008/gate-cli)**
+Go-based CLI workflow runner with JSON config, variable injection via `-e` flags, and `{{template}}` syntax. Ships with a GitHub Actions pipeline that cross-compiles to five targets.
+`Go` · `CLI` · `Cross-platform`
+
+**[Ambients](https://github.com/ArjunO-008/Ambients)**
+Desktop ambient overlay app built with Go/Wails + React. Runs as a floating layer over your workspace.
+`Go` · `Wails` · `React` · `Desktop`
+
+**[CopyLine](https://github.com/ArjunO-008/CopyLine)**
+Clipboard stack manager for Windows and Linux. Intercepts copy events in real-time using native OS APIs (`SetWindowsHookEx`, `AddClipboardFormatListener`) and maintains a browsable history deque.
+`C++` · `Windows API` · `Linux`
+
+**[TalkBoard](https://github.com/TalkBoard-A-Collabrative-White-Board)**
+Real-time collaborative whiteboard with Canvas API drawing, WebRTC, room-based access control, and time-limited session URLs.
+`MERN` · `Socket.IO` · `WebRTC`
 
 ---
 
-## 🛠️ Tech Stack
-### 🚀 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,supabase,git,github,vercel,vscode" />
+## Stack
+
+**Systems** — Go · C++ · Windows API  
+**Web** — React · TypeScript · Node.js · Express · MongoDB  
+**Tooling** — Git · GitHub Actions · Linux · Wails  
+
+---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,cpp,js,react,ts,nodejs,express,mongodb,git,linux,wails" />
 </p>
-
----
-
-⭐ If you like what I build, feel free to follow — I love connecting with devs & builders! <br>
-Thanks for visiting 😊
